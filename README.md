@@ -2,7 +2,7 @@
 
 **I'm embarking on a 100-day coding adventure!  **
 
-Here's the game plan:
+## Here's the game plan:
 
 Coding every day for at least an hour. Consistency is key to building habits and skills.
 Documenting my progress with the #100DaysOfCode hashtag. Sharing my journey with the community keeps me accountable and motivated.
