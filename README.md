@@ -1,4 +1,4 @@
-#100DaysofCode
+# 100DaysofCode
 
 **I'm embarking on a 100-day coding adventure!  **
 
